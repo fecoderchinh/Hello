@@ -22,7 +22,7 @@ Feel free to visit [my repositories](https://github.com/fecoderchinh?tab=reposit
 
 Most used platforms for educational purposes: 
 
-[![W3Schools badge](https://img.shields.io/static/v1?label=W3S&message=W3Schools&color=04aa6d&style=for-the-badge)](https://www.w3schools.com/default.asp) [![MDN badge](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/pt-BR/) [![Stack Overflow badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/) [![Youtube badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/) 
+[![W3Schools badge](https://img.shields.io/static/v1?label=W3S&message=W3Schools&color=04aa6d&style=for-the-badge)](https://www.w3schools.com/default.asp) [![MDN badge](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/) [![Stack Overflow badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/) [![Youtube badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/) 
 
 ---
 
